@@ -1,0 +1,10 @@
+JMROMERO.EXE - PAQUETE PARA SUBIR COMO UN SOLO ARCHIVO
+
+IMPORTANTE:
+- Este ZIP se puede subir como UN SOLO ARCHIVO al repositorio de GitHub.
+- No descomprimas el ZIP antes de subirlo.
+- Las carpetas internas app/ y .github/workflows/ son necesarias para compilar Android.
+- GitHub no descomprime ZIP automáticamente; el workflow main.yml debe descomprimirlo antes de ejecutar Gradle.
+
+Correo de ejemplo: gerencia@refhys.com
+Aplicación: jmromero.exe
